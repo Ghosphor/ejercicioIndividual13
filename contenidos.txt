@@ -1,0 +1,5 @@
+Modulo 1: Programacion en piton
+
+Modulo 2: Lenguaje de consultas a una Base de Datos
+
+Modulo 3: Fundamentos de una pagina web 
